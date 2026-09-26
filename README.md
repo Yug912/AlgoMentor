@@ -156,11 +156,26 @@ LeetHint/
 <table>
   <tr>
     <td align="center"><strong>Hints Tab</strong></td>
-    <td align="center"><strong>Stats Tab</strong></td>
+    <td align="center"><strong>Stats & Progress</strong></td>
   </tr>
   <tr>
-    <td>Progressive hint cards with unlock flow, score bar, and company tags</td>
-    <td>History of solved problems with scores, difficulty badges, and timestamps</td>
+    <td align="center">
+      <img src="screenshots/hints-tab.jpeg" alt="Hints Tab — progressive hint cards with score bar" width="300"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/stats-tab.jpeg" alt="Stats Tab — progress tracking with difficulty breakdown" width="300"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>TC / SC Checker</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/tc-sc-checker.jpeg" alt="TC/SC Checker — verify your time and space complexity" width="600"/>
+    </td>
   </tr>
 </table>
 
